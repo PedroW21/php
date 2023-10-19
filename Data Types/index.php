@@ -7,4 +7,5 @@
 // include_once "arrays.php";
 
 // include_once("exercise1.php");
-include_once("exercise2.php");
+// include_once("exercise2.php");
+include_once "person.php";
