@@ -1,5 +1,5 @@
 <?php
-
+//associative array
 $car = [
     'brand' => 'Fiat',
     'model' => 'Uno',
