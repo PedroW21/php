@@ -6,4 +6,5 @@
 // include_once "booleans.php";
 // include_once "arrays.php";
 
-include_once("exercicie1.php");
+// include_once("exercise1.php");
+include_once("exercise2.php");
